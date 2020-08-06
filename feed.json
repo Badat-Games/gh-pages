@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "We are Badat Games",
     "description": "",
-    "home_page_url": "https:// wearebadatgames.com",
-    "feed_url": "https:// wearebadatgames.com/feed.json",
+    "home_page_url": "https://www.wearebadatgames.com",
+    "feed_url": "https://www.wearebadatgames.com/feed.json",
     "user_comment": "",
-    "icon": "https:// wearebadatgames.com/media/website/Annotation-2020-08-05-105439-3.png",
+    "icon": "https://www.wearebadatgames.com/media/website/Annotation-2020-08-05-105439-3.png",
     "author": {
         "name": "Badat Games"
     },
     "items": [
         {
-            "id": "https:// wearebadatgames.com/we-are-badat-games/",
-            "url": "https:// wearebadatgames.com/we-are-badat-games/",
+            "id": "https://www.wearebadatgames.com/we-are-badat-games/",
+            "url": "https://www.wearebadatgames.com/we-are-badat-games/",
             "title": "We are Badat Games!",
             "summary": "Yes that's right, we are bad at games but we still love them! We try to entertain you by posting videos when we can on youtube. We love posting videos and we want to know how to make our videos better. We also have merch&hellip;",
             "content_html": "<p>Yes that's right, we are bad at games but we still love them! We try to entertain you by posting videos when we can on youtube. We love posting videos and we want to know how to make our videos better. We also have merch that we made so that you can express your love to the world.</p>",
@@ -21,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-06T12:12:02-07:00",
-            "date_modified": "2020-08-06T12:12:02-07:00"
+            "date_published": "2020-08-06T12:25:54-07:00",
+            "date_modified": "2020-08-06T12:25:54-07:00"
         }
     ]
 }
